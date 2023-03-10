@@ -1,5 +1,6 @@
 # Calculator
-[calculadora](./src/Calculadora%20angular.PNG)
+![calculadora](./src/Calculadora%20angular.PNG)
+i have made this calculator learning basic sintax of Typescript and Angular 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
 
